@@ -16,5 +16,7 @@ Currently leaning towards
 
 Tentative Schedule
 1. Data (look for available database? likely will have to scrape my own though) 8/25 - 8/28 or 8/29
-2. Build encoding + Model 8/29 or 8/30 - 9/2 or 9/3
-3. Build frontend 9/3 or 9/4 - 9/7
+   - https://github.com/twintproject/twint
+   - https://www.scraperapi.com/blog/scrape-twitter-data/
+3. Build encoding + Model 8/29 or 8/30 - 9/2 or 9/3
+4. Build frontend 9/3 or 9/4 - 9/7
