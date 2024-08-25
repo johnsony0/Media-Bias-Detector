@@ -12,4 +12,9 @@ Currently leaning towards
 1. Fetch data using twitter accounts of known right-wing, left-wing, and centralist news sites and individuals (we will ignore hashtags)
 2. Embed and tokenize data using word2vec
 3. Use embeded data within different models (ex: transformers?)
-4. Possibly different NNs for tone, political lean, connect at the end for some form of ensemble learning?, try cross validations? 
+4. Possibly different NNs for tone, political lean, connect at the end for some form of ensemble learning?, try cross validations?
+
+Tentative Schedule
+1. Data (look for available database? likely will have to scrape my own though) 8/25 - 8/28 or 8/29
+2. Build encoding + Model 8/29 or 8/30 - 9/2 or 9/3
+3. Build frontend 9/3 or 9/4 - 9/7
