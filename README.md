@@ -25,7 +25,7 @@ Tentative Schedule
 Actual Schedule
 1. Data (look for available database? likely will have to scrape my own though) 8/27 - 8/29
 2. Build encoding + Model 8/30 - 9/3
-3. Break 9/5 - 9/8
-4. Enhancing Model 9/9 - 9/10
+3. Break 9/5 - 9/9
+4. Enhancing Model 9/10 - 9/10
 5. Build frontend 9/11 - 9/12
 
