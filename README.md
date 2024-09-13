@@ -21,3 +21,11 @@ Tentative Schedule
    - use snscrape
 3. Build encoding + Model 8/29 or 8/30 - 9/2 or 9/3
 4. Build frontend 9/3 or 9/4 - 9/7
+
+Actual Schedule
+1. Data (look for available database? likely will have to scrape my own though) 8/27 - 8/29
+2. Build encoding + Model 8/30 - 9/3
+3. Break 9/5 - 9/8
+4. Enhancing Model 9/9 - 9/10
+5. Build frontend 9/11 - 9/12
+
